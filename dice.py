@@ -12,5 +12,3 @@ class Dice:
         return rolls
 
 
-kostka = Dice()
-kostka.dice_roll()
