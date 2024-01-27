@@ -1,3 +1,5 @@
+# This code is not mine, I just saw it on the great chanel called Tech With Tim. You should totally check his YT chanel!
+
 import random
 
 MAX_LINES = 3
